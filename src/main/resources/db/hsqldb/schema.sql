@@ -8,7 +8,7 @@ CREATE TABLE book (
   name          VARCHAR(80),
   author        VARCHAR(80),
   price         DECIMAL(10,2),
-  topic         VARCHAR(80),
+    topic         VARCHAR(80),
   publish_date  DATE
 );
 
